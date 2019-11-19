@@ -14,4 +14,4 @@ For recreation purposes, the data used is archived here - https://d396qusza40orc
 
 To tidy the data using R, you first need to download the data into your current working directory, saved using the folowing filename: "getdata_projectfiles_UCI HAR Dataset.zip"
 
-You can then run the run_analysis.R script which should produce a "tidydata.txt" file. The data is described in the "CodeBook.md" file
+You can then run the "run_analysis.R" script which should produce a "tidydata.txt" file. The data is described in the "CodeBook.md" file
