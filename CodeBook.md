@@ -1,4 +1,4 @@
-# gettingandcleaningdata
+# gettingandcleaningdata Codebook
 Getting and Cleaning Data Course Project
 
 This CodeBook describes the "tidydata.txt" data output by the "run_analysis.R" script.
