@@ -1,4 +1,4 @@
-# gettingandcleaningdata
+# gettingandcleaningdata README
 Getting and Cleaning Data Course Project
 
 This project contains the files:
